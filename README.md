@@ -41,12 +41,7 @@ This repository contains a Python-based application that allows users to create 
    ```bash
    pip install requests beautifulsoup4 spotipy
    ```
-4. Set up your Spotify API credentials and add them to a `.env` file:
-   ```
-   SPOTIFY_CLIENT_ID=your_client_id
-   SPOTIFY_CLIENT_SECRET=your_client_secret
-   SPOTIFY_REDIRECT_URI=your_redirect_uri
-   ```
+4. Enter your Spotify client id and Soptify client secret
 5. Run the application:
    ```bash
    python main.py
